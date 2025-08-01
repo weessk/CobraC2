@@ -26,13 +26,13 @@ CobraC2 is a simple but powerful Command and Control server. You run it, you gen
 ## How to Pwn (Usage)
 
 1.  **Clone this shit:**
-    `git clone https://github.com/your-username/CobraC2.git && cd CobraC2`
+    `git clone https://github.com/weessk/CobraC2.git && cd CobraC2`
 
 2.  **Install the boring stuff:**
     `pip install -r requirements.txt`
 
 3.  **Fire up the server:**
-    `python cobra_c2.py`
+    `python CobraC2.py`
 
 4.  **Craft your venom (`generate`):**
     - The server will ask for your IP. Give it to him.
