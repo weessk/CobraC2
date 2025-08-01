@@ -1,0 +1,4 @@
+pycryptodome
+pyfiglet
+colorama
+pyreadline
